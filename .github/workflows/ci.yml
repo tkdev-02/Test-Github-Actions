@@ -23,8 +23,8 @@ jobs:
     - name: 📦 Restore dependencies
       run: dotnet restore
 
-    - name: 🛠️ Build project
+    - name: 🛠️ Build solution
       run: dotnet build --no-restore --configuration Release
 
     - name: 🧪 Run tests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test ./HelloWorldApp.Tests/HelloWorldApp.Tests.csproj --no-build --verbosity normal
