@@ -1,0 +1,15 @@
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+C:\Install\Github Repos\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
